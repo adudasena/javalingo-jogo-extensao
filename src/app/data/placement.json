@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pl-1",
+    "level": "beginner",
+    "q": "Qual estrutura é mais adequada para armazenar 100 notas de alunos",
+    "options": ["Uma variável para cada nota", "Um vetor (array)", "Uma constante", "Um comando de decisão"],
+    "answerIndex": 1,
+    "xp": 0,
+    "coins": 0
+  },
+  {
+    "id": "pl-2",
+    "level": "beginner",
+    "q": "Em um laço 'para i de 1 até 4', quantas vezes o bloco será executado?",
+    "options": ["3 vezes", "4 vezes", "5 vezes", "Depende do incremento"],
+    "answerIndex": 1,
+    "xp": 0,
+    "coins": 0
+  },
+  {
+    "id": "pl-3",
+    "level": "intermediate",
+    "q": "Dada a função recursiva: f(n) = n * f(n-1), com f(1) = 1, qual o resultado de f(4)?",
+    "options": ["4", "6", "12", "24"],
+    "answerIndex": 3,
+    "xp": 0,
+    "coins": 0
+  },
+  {
+    "id": "pl-4",
+    "level": "intermediate",
+    "q": "Em um vetor v = [10, 20, 30, 40], qual é o valor de v[2] considerando índice começando em 0?",
+    "options": ["10", "20", "30", "40"],
+    "answerIndex": 2,
+    "xp": 0,
+    "coins": 0
+  },
+  {
+    "id": "pl-5",
+    "level": "intermediate",
+    "q": "Considere: SE (nota >= 6) ENTÃO 'Aprovado' SENÃO 'Reprovado'. Qual saída para nota = 5.9?",
+    "options": ["Aprovado", "Reprovado", "Erro de sintaxe", "Nenhuma"],
+    "answerIndex": 1,
+    "xp": 0,
+    "coins": 0
+  },
+  {
+    "id": "pl-6",
+    "level": "advanced",
+    "q": "Em um algoritmo de ordenação, o pior caso do QuickSort ocorre quando:",
+    "options": ["O pivô sempre divide o vetor em partes iguais",
+      "O pivô é sempre o menor ou o maior elemento",
+      "Todos os elementos já estão ordenados",
+      "O vetor contém números negativos"],
+    "answerIndex": 1,
+    "xp": 0,
+    "coins": 0
+  },
+  {
+    "id": "pl-7",
+    "level": "advanced",
+    "q": "No paradigma OO, 'encapsulamento' significa:",
+    "options": ["Herança múltipla de classes", "Separar dados e métodos em arquivos diferentes", "Esconder detalhes internos, expondo apenas o necessário por meio de interfaces/métodos públicos", "Reutilizar código por composição"],
+    "answerIndex": 2,
+    "xp": 0,
+    "coins": 0
+  }
+]

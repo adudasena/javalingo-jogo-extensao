@@ -1,0 +1,2934 @@
+[
+  {
+    "id": 1,
+    "levelId": 1,
+    "level": "beginner",
+    "q": "Qual estrutura representa decisão em lógica?",
+    "options": [
+      "para",
+      "repita",
+      "se",
+      "caso"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 1,
+    "levelId": 1,
+    "level": "beginner",
+    "q": "O que é algoritmo?",
+    "options": [
+      "Linguagem",
+      "Erro",
+      "Passos para resolver",
+      "Comando único"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 1,
+    "levelId": 1,
+    "level": "beginner",
+    "q": "Qual é o valor da variável após: x = 2 + 3 * 4?",
+    "options": [
+      "14",
+      "20",
+      "24",
+      "10"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 1,
+    "levelId": 1,
+    "level": "beginner",
+    "q": "Qual linguagem é usada no Portugol Studio?",
+    "options": [
+      "Python",
+      "C",
+      "Portugol",
+      "Scratch"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 1,
+    "levelId": 1,
+    "level": "beginner",
+    "q": "Qual é a sintaxe correta para atribuição?",
+    "options": [
+      "a == 5",
+      "a := 5",
+      "a = 5",
+      "a <- 5"
+    ],
+    "answerIndex": 3,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 6,
+    "levelId": 2,
+    "level": "beginner",
+    "q": "O que é uma variável?",
+    "options": [
+      "Espaço na memória",
+      "Loop",
+      "Função",
+      "Classe"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 6,
+    "levelId": 2,
+    "level": "beginner",
+    "q": "Qual tipo representa números inteiros?",
+    "options": [
+      "real",
+      "literal",
+      "inteiro",
+      "lógico"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 6,
+    "levelId": 2,
+    "level": "beginner",
+    "q": "Qual é o operador de igualdade em lógica/Java?",
+    "options": [
+      "==",
+      "=",
+      "!=",
+      "<>"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 6,
+    "levelId": 2,
+    "level": "beginner",
+    "q": "Como se representa um laço de repetição?",
+    "options": [
+      "se",
+      "enquanto",
+      "classe",
+      "imprima"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 6,
+    "levelId": 2,
+    "level": "beginner",
+    "q": "Qual tipo de dado armazena valores verdadeiro ou falso?",
+    "options": [
+      "int", "boolean", "string", "char"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 11,
+    "levelId": 3,
+    "level": "beginner",
+    "q": "O que significa o comando 'leia' no Portugol?",
+    "options": [
+      "imprimir", "ler entrada do usuário", "sair do programa", "repetir comando"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 11,
+    "levelId": 3,
+    "level": "beginner",
+    "q": "O que o símbolo '+' faz entre duas strings?",
+    "options": [
+      "soma números", "concatena textos", "compara valores", "subtrai números"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 11,
+    "levelId": 3,
+    "level": "beginner",
+    "q": "Qual comando encerra um programa em Java?",
+    "options": [
+     "stop()", "exit()", "end", "System.exit(0)"
+    ],
+    "answerIndex": 3,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 11,
+    "levelId": 3,
+    "level": "beginner",
+    "q": "O que é um loop em programação?",
+    "options": [
+      "decisão", "repetição", "função", "variável"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 11,
+    "levelId": 3,
+    "level": "beginner",
+    "q": "Qual operador lógico representa 'E' (AND)?",
+    "options": [ 
+      "||", "&&", "!", "=="
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 16,
+    "levelId": 4,
+    "level": "beginner",
+    "q": "Como se representa um laço de repetição?",
+    "options": [
+      "se",
+      "enquanto",
+      "classe",
+      "imprima"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 16,
+    "levelId": 4,
+    "level": "beginner",
+    "q": "Qual é o símbolo do operador de negação lógica?",
+    "options": [
+      "&&", "||", "!", "=="
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 16,
+    "levelId": 4,
+    "level": "beginner",
+    "q": "O que é um comentário no código?",
+    "options": [
+      "parte executável", "nota explicativa ignorada pelo compilador", "erro de sintaxe", "nome de variável"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 16,
+    "levelId": 4,
+    "level": "beginner",
+    "q": "O que é compilação?",
+    "options": [
+     "execução do programa", "tradução do código fonte", "erro de lógica", "otimização automática"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 16,
+    "levelId": 4,
+    "level": "beginner",
+    "q": "Qual estrutura é usada para escolher entre várias opções?",
+    "options": [
+      "se", "caso", "repita", "para"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 21,
+    "levelId": 5,
+    "level": "beginner",
+    "q": "Como declarar uma variável inteira em Java?",
+    "options": [
+    "var numero = 10", "integer numero = 10", "num = 10", "int numero = 10;"
+    ],
+    "answerIndex": 3,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 21,
+    "levelId": 5,
+    "level": "beginner",
+    "q": "Qual palavra-chave cria um novo objeto em Java?",
+    "options": [
+      "object", "create", "new", "make"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 21,
+    "levelId": 5,
+    "level": "beginner",
+    "q": "Qual comando lê uma entrada do usuário em Java?",
+    "options": [
+      "Scanner.next()", "System.out.print()", "input()", "Console.read()"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 21,
+    "levelId": 5,
+    "level": "beginner",
+    "q": "O que é um erro de sintaxe?",
+    "options": [
+     "Erro lógico", "Erro nas regras da linguagem", "Erro de cálculo", "Erro de hardware"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 21,
+    "levelId": 5,
+    "level": "beginner",
+    "q": "Qual estrutura serve para repetir um bloco um número fixo de vezes?",
+    "options": [
+     "enquanto", "caso", "para", "se"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 26,
+    "levelId": 6,
+    "level": "beginner",
+    "q": "Qual comando exibe uma linha no console em Java?",
+    "options": [
+      "print()", "System.out.println()", "echo()", "show()"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 26,
+    "levelId": 6,
+    "level": "beginner",
+    "q": "Como se inicia um comentário de uma linha em Java?",
+    "options": [
+        "#", "//", "/*", "--"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 26,
+    "levelId": 6,
+    "level": "beginner",
+    "q": "O que acontece se esquecer o ponto e vírgula em Java?",
+    "options": [
+    "Nada", "Erro de compilação", "O programa ignora", "Executa duas vezes"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 26,
+    "levelId": 6,
+    "level": "beginner",
+    "q": "O que é o método main em Java?",
+    "options": [
+      "Função de teste", "Biblioteca", "Classe principal", "Ponto de entrada do programa"
+    ],
+    "answerIndex": 3,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 26,
+    "levelId": 6,
+    "level": "beginner",
+    "q": "O que é uma constante?",
+    "options": [
+     "Um valor que pode mudar", "Um valor fixo durante a execução", "Um tipo de variável lógica", "Um operador aritmético"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 31,
+    "levelId": 7,
+    "level": "beginner",
+    "q": "O que é uma expressão aritmética?",
+    "options": [
+"Um texto", "Um cálculo com operadores", "Uma variável", "Uma condição lógica"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 31,
+    "levelId": 7,
+    "level": "beginner",
+    "q": "O que o operador '%' retorna?",
+    "options": [
+     "Soma", "Resto da divisão", "Multiplicação", "Número negativo"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 31,
+    "levelId": 7,
+    "level": "beginner",
+    "q": "Qual operador é usado para incremento em Java?",
+    "options": [
+      "++", "+=", "--", "add"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 31,
+    "levelId": 7,
+    "level": "beginner",
+    "q": "Qual é o resultado de 10 / 2?",
+    "options": [
+     "2", "5", "20", "0"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 31,
+    "levelId": 7,
+    "level": "beginner",
+    "q": "Qual operador é usado para verificar se um valor é maior que outro?",
+    "options": [
+        "<", ">=", "<=", ">"
+    ],
+    "answerIndex": 3,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 36,
+    "levelId": 8,
+    "level": "beginner",
+    "q": "Como se chama a área que armazena todas as variáveis de um programa?",
+    "options": [
+      "Memória", "CPU", "Cache", "Banco de dados"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 36,
+    "levelId": 8,
+    "level": "beginner",
+    "q": "O que é um erro lógico?",
+    "options": [
+      "Erro que impede a execução", "Erro que gera resultado incorreto", "Erro de sintaxe", "Erro de compilação"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 36,
+    "levelId": 8,
+    "level": "beginner",
+    "q": "Qual operador lógico representa 'OU' (OR)?",
+    "options": [
+     "&&", "||", "!", "=="
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 36,
+    "levelId": 8,
+    "level": "beginner",
+    "q": "Como se chama o processo de executar instruções em sequência?",
+    "options": [
+     "Loop", "Desvio condicional", "Fluxo sequencial", "Interrupção"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 36,
+    "levelId": 8,
+    "level": "beginner",
+    "q": "Qual tipo de estrutura 'para' é usada em programação?",
+    "options": [
+      "Condicional", "Repetição", "Função", "Procedimento"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 41,
+    "levelId": 9,
+    "level": "beginner",
+    "q": "Qual operador lógico representa 'NÃO' (NOT)?",
+    "options": [
+     "||", "&&", "!", "??"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 41,
+    "levelId": 9,
+    "level": "beginner",
+    "q": "O que faz o operador '++'?",
+    "options": [
+      "Soma dois números", "Incrementa em 1 o valor da variável", "Compara valores", "Zera a variável"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 41,
+    "levelId": 9,
+    "level": "beginner",
+    "q": "O que é um bloco de código?",
+    "options": [
+      "Um conjunto de comandos entre chaves", "Um grupo de variáveis", "Uma linha de texto", "Um erro de compilação"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 41,
+    "levelId": 9,
+    "level": "beginner",
+    "q": "O que o comando 'se' faz em um algoritmo?",
+    "options": [
+      "Repete ações", "Executa algo se a condição for verdadeira", "Lê dados", "Interrompe o programa"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 41,
+    "levelId": 9,
+    "level": "beginner",
+    "q": "O que é necessário para um algoritmo ser executado?",
+    "options": [
+      "Ter uma variável", "Ter uma condição", "Ter uma sequência lógica de passos", "Ter um loop"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 46,
+    "levelId": 10,
+    "level": "beginner",
+    "q": "Qual é o primeiro passo ao criar um algoritmo?",
+    "options": [
+      "Planejar a lógica", "Testar o código", "Compilar o programa", "Executar o programa"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 46,
+    "levelId": 10,
+    "level": "beginner",
+    "q": "O que é necessário para declarar uma variável em um programa?",
+    "options": [
+      "Somente o nome", "Tipo e nome", "Apenas o valor", "O nome e o operador de soma"
+    ],
+    "answerIndex": 1,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 46,
+    "levelId": 10,
+    "level": "beginner",
+    "q": "Como é chamada a repetição que ocorre pelo menos uma vez?",
+    "options": [
+     "Enquanto", "Para", "Repita até", "Se"
+    ],
+    "answerIndex": 2,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 46,
+    "levelId": 10,
+    "level": "beginner",
+    "q": "Qual comando em Java serve para mostrar dados na tela?",
+    "options": [
+      "print()", "Console.write()", "show()", "System.out.println()"
+    ],
+    "answerIndex": 3,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 46,
+    "levelId": 10,
+    "level": "beginner",
+    "q": "Como são chamadas as informações que um algoritmo precisa para funcionar?",
+    "options": [
+      "Entradas", "Saídas", "Variáveis", "Constantes"
+    ],
+    "answerIndex": 0,
+    "xp": 10,
+    "coins": 5
+  },
+  {
+    "id": 51,
+    "levelId": 11,
+    "level": "intermediate",
+    "q": "Qual a saída de: int x = 5; System.out.println(++x);",
+    "options": [
+      "5",
+      "6",
+      "Erro",
+      "x"
+    ],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 51,
+    "levelId": 11,
+    "level": "intermediate",
+    "q": "Como se cria um objeto?",
+    "options": [
+      "class A = new A();",
+      "A a = new A();",
+      "A = objeto();",
+      "obj = A.new();"
+    ],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 51,
+    "levelId": 11,
+    "level": "intermediate",
+    "q": "O que faz o 'for' em Java?",
+    "options": [
+      "Condicional",
+      "Entrada",
+      "Laço",
+      "Classe"
+    ],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 51,
+    "levelId": 11,
+    "level": "intermediate",
+    "q": "Qual classe é usada para entrada de dados?",
+    "options": [
+      "Scanner",
+      "Input",
+      "Reader",
+      "Buffer"
+    ],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 51,
+    "levelId": 11,
+    "level": "intermediate",
+    "q": "Qual é o tipo para valores verdadeiros/falsos?",
+    "options": [
+      "int",
+      "String",
+      "boolean",
+      "float"
+    ],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 56,
+    "levelId": 12,
+    "level": "intermediate",
+    "q": "O que o operador '!=' significa?",
+    "options": [
+      "Igual",
+      "Menor que",
+      "Diferente",
+      "Maior que"
+    ],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 56,
+    "levelId": 12,
+    "level": "intermediate",
+    "q": "Qual coleção NÃO aceita duplicados?",
+    "options": [
+      "List",
+      "Set",
+      "ArrayList",
+      "LinkedList"
+    ],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 56,
+    "levelId": 12,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para criar uma subclasse em Java?",
+    "options": ["inherit", "extends", "implements", "include"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 57,
+    "levelId": 12,
+    "level": "intermediate",
+    "q": "O que o operador '++' faz em uma variável?",
+    "options": ["Decrementa 1", "Incrementa 1", "Multiplica por 2", "Zera o valor"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 58,
+    "levelId": 12,
+    "level": "intermediate",
+    "q": "Qual é a função do método equals()?",
+    "options": ["Comparar objetos", "Somar números", "Copiar arrays", "Definir classes"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 59,
+    "levelId": 13,
+    "level": "intermediate",
+    "q": "O que faz o comando 'break' dentro de um loop?",
+    "options": ["Pula uma iteração", "Sai do loop", "Reinicia o loop", "Interrompe o programa inteiro"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 60,
+    "levelId": 13,
+    "level": "intermediate",
+    "q": "Qual é a saída do código: System.out.println(10 % 3);",
+    "options": ["1", "3", "0", "10"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 61,
+    "levelId": 13,
+    "level": "intermediate",
+    "q": "O que o operador '&&' representa em uma expressão lógica?",
+    "options": ["Ou", "E", "Não", "Igual"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 61,
+    "levelId": 13,
+    "level": "intermediate",
+    "q": "Qual método inicia um programa Java?",
+    "options": [
+      "start()",
+      "run()",
+      "main()",
+      "init()"
+    ],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 61,
+    "levelId": 13,
+    "level": "intermediate",
+    "q": "Qual palavra-chave impede que um método seja sobrescrito?",
+    "options": ["final", "static", "protected", "private"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 66,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "O que o método length() retorna em uma String?",
+    "options": ["O número de caracteres", "O último caractere", "O tipo da variável", "O índice inicial"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 67,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "Qual palavra-chave permite acessar a superclasse?",
+    "options": ["extends", "parent", "super", "base"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 68,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "O que significa instanciar uma classe?",
+    "options": ["Criar uma variável", "Criar um objeto", "Apagar um método", "Executar um loop"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+
+    {
+    "id": 66,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "O que o método toString() faz em uma classe Java?",
+    "options": ["Compara objetos", "Retorna uma representação textual", "Imprime no console", "Cria uma cópia do objeto"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 67,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "Qual operador é usado para verificar igualdade entre objetos?",
+    "options": ["==", "=", "equals()", "!="],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 68,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "Qual é a função do construtor em uma classe?",
+    "options": ["Criar objetos", "Encerrar loops", "Comparar Strings", "Executar herança"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 69,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "Qual é a diferença entre '==' e 'equals()'?",
+    "options": ["Nenhuma diferença", "Um compara referências, o outro conteúdo", "Ambos comparam valores numéricos", "Ambos fazem atribuição"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 70,
+    "levelId": 14,
+    "level": "intermediate",
+    "q": "Qual modificador de acesso permite acesso apenas dentro do mesmo pacote?",
+    "options": ["private", "protected", "padrão (sem modificador)", "public"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 71,
+    "levelId": 15,
+    "level": "intermediate",
+    "q": "O que o operador '||' representa em lógica booleana?",
+    "options": ["E", "Ou", "Não", "Diferença"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 72,
+    "levelId": 15,
+    "level": "intermediate",
+    "q": "Qual é a função do 'this' em Java?",
+    "options": ["Aponta para o objeto atual", "Cria uma nova instância", "Finaliza o programa", "Chama o construtor da superclasse"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 73,
+    "levelId": 15,
+    "level": "intermediate",
+    "q": "O que acontece se um método for declarado como static?",
+    "options": ["Só pode ser usado em objetos", "Pode ser chamado sem criar instância", "Não pode retornar valores", "É sobrescrito automaticamente"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 74,
+    "levelId": 15,
+    "level": "intermediate",
+    "q": "Qual estrutura é usada para capturar exceções?",
+    "options": ["if", "try-catch", "switch", "while"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 75,
+    "levelId": 15,
+    "level": "intermediate",
+    "q": "O que é polimorfismo em POO?",
+    "options": ["Reutilização de código", "Um método ter várias formas de execução", "Criação de subclasses", "Encapsular dados"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 76,
+    "levelId": 16,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para herdar de uma classe?",
+    "options": ["inherits", "extends", "super", "parent"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 77,
+    "levelId": 16,
+    "level": "intermediate",
+    "q": "O que significa sobrescrever um método?",
+    "options": ["Criar outro com mesmo nome e assinatura", "Excluir um método", "Duplicar o código", "Alterar o tipo de retorno"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 78,
+    "levelId": 16,
+    "level": "intermediate",
+    "q": "O que faz o comando continue dentro de um loop?",
+    "options": ["Sai do loop", "Interrompe o programa", "Pula para a próxima iteração", "Reinicia o programa"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 79,
+    "levelId": 16,
+    "level": "intermediate",
+    "q": "Qual tipo de dado é retornado por um método void?",
+    "options": ["Nenhum", "Booleano", "Inteiro", "String"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 80,
+    "levelId": 16,
+    "level": "intermediate",
+    "q": "O que o operador instanceof verifica?",
+    "options": ["Se um objeto pertence a uma classe", "Se duas classes são iguais", "Se o valor é nulo", "Se é uma variável global"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 81,
+    "levelId": 17,
+    "level": "intermediate",
+    "q": "Qual é o nome do conceito que permite esconder detalhes internos de uma classe?",
+    "options": ["Herança", "Polimorfismo", "Encapsulamento", "Recursão"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 82,
+    "levelId": 17,
+    "level": "intermediate",
+    "q": "Qual estrutura de decisão substitui vários 'if' encadeados?",
+    "options": ["while", "switch", "for", "case"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 83,
+    "levelId": 17,
+    "level": "intermediate",
+    "q": "Qual é o resultado de 15 / 2 em uma divisão inteira em Java?",
+    "options": ["7.5", "8", "7", "Erro"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 84,
+    "levelId": 17,
+    "level": "intermediate",
+    "q": "O que significa sobrecarga de métodos?",
+    "options": ["Criar métodos com mesmo nome mas parâmetros diferentes", "Excluir um método herdado", "Usar vários return", "Trocar o tipo da classe"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 85,
+    "levelId": 18,
+    "level": "intermediate",
+    "q": "O que o método substring() faz em uma String?",
+    "options": ["Remove espaços", "Retorna parte do texto", "Compara valores", "Converte para maiúsculas"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 86,
+    "levelId": 18,
+    "level": "intermediate",
+    "q": "Qual estrutura permite percorrer uma lista completa?",
+    "options": ["for-each", "if", "switch", "case"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 87,
+    "levelId": 18,
+    "level": "intermediate",
+    "q": "O que o método compareTo() retorna?",
+    "options": ["Um booleano", "Um número que indica a comparação", "Um caractere", "Uma exceção"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 91,
+    "levelId": 19,
+    "level": "intermediate",
+    "q": "Qual método converte uma String em letras minúsculas?",
+    "options": ["toLowerCase()", "toUpperCase()", "substring()", "trim()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 92,
+    "levelId": 19,
+    "level": "intermediate",
+    "q": "O que o operador '%' retorna em uma divisão?",
+    "options": ["A soma dos números", "O resto da divisão", "O quociente", "O número maior"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 93,
+    "levelId": 19,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para herdar uma classe em Java?",
+    "options": ["extends", "super", "inherits", "parent"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 94,
+    "levelId": 19,
+    "level": "intermediate",
+    "q": "Qual é a principal função de um construtor?",
+    "options": ["Criar objetos", "Imprimir dados", "Comparar Strings", "Encerrar o programa"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 95,
+    "levelId": 19,
+    "level": "intermediate",
+    "q": "O que significa a palavra-chave 'return' em um método?",
+    "options": ["Sai do método e retorna um valor", "Declara uma variável", "Cria um loop", "Finaliza o programa"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 96,
+    "levelId": 20,
+    "level": "intermediate",
+    "q": "Qual tipo de estrutura é usada para percorrer coleções?",
+    "options": ["if", "switch", "for-each", "try-catch"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 97,
+    "levelId": 20,
+    "level": "intermediate",
+    "q": "O que significa o erro NullPointerException?",
+    "options": ["Divisão por zero", "Objeto não inicializado", "Loop infinito", "Classe duplicada"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 98,
+    "levelId": 20,
+    "level": "intermediate",
+    "q": "Qual método converte texto em número inteiro?",
+    "options": ["parseInt()", "toInt()", "convert()", "valueOf()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 99,
+    "levelId": 20,
+    "level": "intermediate",
+    "q": "Qual interface é usada para listas em Java?",
+    "options": ["Map", "Set", "List", "Queue"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 100,
+    "levelId": 20,
+    "level": "intermediate",
+    "q": "O que o método charAt() retorna?",
+    "options": ["Um caractere da String", "O tamanho da String", "Um número inteiro", "Um booleano"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 101,
+    "levelId": 21,
+    "level": "intermediate",
+    "q": "O que o operador '+=' faz?",
+    "options": ["Soma e atribui o resultado", "Subtrai valores", "Compara igualdade", "Concatena arrays"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 102,
+    "levelId": 21,
+    "level": "intermediate",
+    "q": "Qual é o resultado de System.out.println(2 + 3 + \"4\");",
+    "options": ["9", "234", "54", "Erro"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 103,
+    "levelId": 21,
+    "level": "intermediate",
+    "q": "Qual palavra-chave indica que um método foi sobrescrito?",
+    "options": ["@Override", "@Super", "@Extends", "@Method"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 104,
+    "levelId": 21,
+    "level": "intermediate",
+    "q": "O que o método trim() faz em uma String?",
+    "options": ["Remove espaços nas extremidades", "Divide o texto", "Transforma em minúsculas", "Conta caracteres"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 105,
+    "levelId": 21,
+    "level": "intermediate",
+    "q": "Qual estrutura de repetição tem contador explícito?",
+    "options": ["for", "while", "do-while", "foreach"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 106,
+    "levelId": 22,
+    "level": "intermediate",
+    "q": "Qual método retorna o tamanho de uma lista?",
+    "options": ["count()", "length()", "size()", "index()"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 107,
+    "levelId": 22,
+    "level": "intermediate",
+    "q": "O que é necessário para capturar uma exceção?",
+    "options": ["Um loop", "Um bloco try-catch", "Um método void", "Uma variável global"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 108,
+    "levelId": 22,
+    "level": "intermediate",
+    "q": "Qual classe é usada para gerar números aleatórios?",
+    "options": ["Math", "Random", "Number", "Integer"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 109,
+    "levelId": 22,
+    "level": "intermediate",
+    "q": "O que o método equalsIgnoreCase() faz?",
+    "options": ["Compara Strings sem diferenciar maiúsculas e minúsculas", "Converte para maiúsculas", "Remove espaços", "Transforma em char[]"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 110,
+    "levelId": 22,
+    "level": "intermediate",
+    "q": "Qual é a vantagem de usar ArrayList em vez de arrays comuns?",
+    "options": ["Tamanho dinâmico", "Menor uso de memória", "Mais rápido em loops", "Aceita tipos primitivos"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 111,
+    "levelId": 23,
+    "level": "intermediate",
+    "q": "Qual método retorna o maior número entre dois valores?",
+    "options": ["Math.max()", "Math.min()", "Math.greater()", "Math.bigger()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 112,
+    "levelId": 23,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para implementar uma interface?",
+    "options": ["extends", "interface", "implements", "inherit"],
+    "answerIndex": 2,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 113,
+    "levelId": 23,
+    "level": "intermediate",
+    "q": "O que o método nextInt() da classe Scanner faz?",
+    "options": ["Lê um número inteiro", "Lê uma string", "Lê um caractere", "Gera um número aleatório"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 114,
+    "levelId": 23,
+    "level": "intermediate",
+    "q": "O que acontece se você tentar dividir um número inteiro por zero em Java?",
+    "options": ["Retorna 0", "Gera ArithmeticException", "Retorna infinito", "O programa ignora"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 115,
+    "levelId": 23,
+    "level": "intermediate",
+    "q": "Qual estrutura é usada para executar código dependendo de várias condições?",
+    "options": ["for", "switch", "while", "try"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 116,
+    "levelId": 24,
+    "level": "intermediate",
+    "q": "Qual é a função do método toUpperCase() em uma String?",
+    "options": ["Converte para maiúsculas", "Remove espaços", "Compara textos", "Inverte os caracteres"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 117,
+    "levelId": 24,
+    "level": "intermediate",
+    "q": "O que o modificador static faz em um atributo?",
+    "options": ["Torna o valor compartilhado entre instâncias", "Impede herança", "Torna o atributo privado", "Define um tipo de dado constante"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 118,
+    "levelId": 24,
+    "level": "intermediate",
+    "q": "Qual tipo de dado é retornado pelo método compareTo()?",
+    "options": ["boolean", "int", "String", "float"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 119,
+    "levelId": 24,
+    "level": "intermediate",
+    "q": "O que faz o operador ternário em Java?",
+    "options": ["Cria um loop", "Substitui um if-else simples", "Concatena Strings", "Declara variáveis"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 120,
+    "levelId": 24,
+    "level": "intermediate",
+    "q": "Qual método remove todos os elementos de uma lista?",
+    "options": ["clear()", "delete()", "removeAll()", "reset()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 121,
+    "levelId": 25,
+    "level": "intermediate",
+    "q": "Qual é a saída de System.out.println(10 > 5 && 3 < 4);",
+    "options": ["true", "false", "Erro", "10"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 122,
+    "levelId": 25,
+    "level": "intermediate",
+    "q": "Qual é o papel da JVM no Java?",
+    "options": ["Executar bytecode", "Traduzir código JavaScript", "Gerar arquivos JAR", "Compilar C++"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 123,
+    "levelId": 25,
+    "level": "intermediate",
+    "q": "O que o método contains() verifica em uma coleção?",
+    "options": ["Se está vazia", "Se contém um elemento específico", "Se possui duplicados", "Se está ordenada"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 124,
+    "levelId": 25,
+    "level": "intermediate",
+    "q": "Qual é a principal vantagem de usar interfaces?",
+    "options": ["Permitem múltiplas heranças de comportamento", "Aumentam a velocidade", "Evitam polimorfismo", "Eliminam exceções"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 125,
+    "levelId": 25,
+    "level": "intermediate",
+    "q": "O que é encapsulamento?",
+    "options": ["Proteger dados de acesso externo", "Repetir código", "Compartilhar variáveis públicas", "Usar variáveis locais"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 126,
+    "levelId": 26,
+    "level": "intermediate",
+    "q": "O que significa lançar uma exceção em Java?",
+    "options": ["Ignorar um erro", "Gerar um erro para ser tratado", "Encerrar o programa", "Reiniciar o método"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 127,
+    "levelId": 26,
+    "level": "intermediate",
+    "q": "Qual método converte um número em String?",
+    "options": ["String.valueOf()", "parseInt()", "toString()", "concat()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 128,
+    "levelId": 26,
+    "level": "intermediate",
+    "q": "O que significa sobrescrever um método herdado?",
+    "options": ["Alterar sua implementação", "Duplicar seu nome", "Excluir o método", "Tornar privado"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 129,
+    "levelId": 26,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para tratar exceções?",
+    "options": ["throw", "catch", "error", "handle"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 130,
+    "levelId": 26,
+    "level": "intermediate",
+    "q": "O que o método hashCode() retorna?",
+    "options": ["Um identificador numérico do objeto", "O valor booleano de igualdade", "O tamanho do objeto", "O endereço de memória"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 131,
+    "levelId": 27,
+    "level": "intermediate",
+    "q": "Qual método adiciona um elemento ao final de uma lista?",
+    "options": ["add()", "push()", "insert()", "append()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 132,
+    "levelId": 27,
+    "level": "intermediate",
+    "q": "O que o método substring() faz?",
+    "options": ["Divide uma String em partes", "Compara duas Strings", "Remove espaços", "Conta caracteres"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 133,
+    "levelId": 27,
+    "level": "intermediate",
+    "q": "O que é uma interface funcional em Java?",
+    "options": ["Possui apenas um método abstrato", "Não pode ter métodos", "Herda de outra interface", "É usada apenas com threads"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 134,
+    "levelId": 27,
+    "level": "intermediate",
+    "q": "Qual estrutura é usada para capturar exceções específicas?",
+    "options": ["catch", "throw", "try", "assert"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 135,
+    "levelId": 27,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para criar uma subclasse?",
+    "options": ["super", "extends", "implements", "parent"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 136,
+    "levelId": 28,
+    "level": "intermediate",
+    "q": "O que faz o método isEmpty() em coleções?",
+    "options": ["Verifica se está vazia", "Remove elementos", "Cria uma nova lista", "Ordena os dados"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 137,
+    "levelId": 28,
+    "level": "intermediate",
+    "q": "O que é sobrecarga de métodos (overloading)?",
+    "options": ["Vários métodos com mesmo nome e parâmetros diferentes", "Reescrever método herdado", "Criar interface", "Definir variável global"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 138,
+    "levelId": 28,
+    "level": "intermediate",
+    "q": "Qual é a função do bloco finally?",
+    "options": ["Executar código independente da exceção", "Definir variáveis", "Encerrar loops", "Iniciar o programa"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 139,
+    "levelId": 28,
+    "level": "intermediate",
+    "q": "O que significa 'polimorfismo' em Java?",
+    "options": ["Capacidade de um método se comportar de formas diferentes", "Criação de várias classes", "Acesso direto a atributos", "Definição de tipos primitivos"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 140,
+    "levelId": 28,
+    "level": "intermediate",
+    "q": "Qual método remove um item específico de uma lista?",
+    "options": ["delete()", "remove()", "drop()", "unset()"],
+    "answerIndex": 1,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 141,
+    "levelId": 29,
+    "level": "intermediate",
+    "q": "O que o método getClass() retorna?",
+    "options": ["O nome da classe do objeto", "O tipo do método", "O pacote principal", "O endereço na memória"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 142,
+    "levelId": 29,
+    "level": "intermediate",
+    "q": "Qual palavra-chave é usada para impedir herança de uma classe?",
+    "options": ["final", "static", "sealed", "protected"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 143,
+    "levelId": 29,
+    "level": "intermediate",
+    "q": "O que faz o método equals()?",
+    "options": ["Compara conteúdo de objetos", "Compara endereços de memória", "Remove duplicados", "Converte tipos"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 144,
+    "levelId": 29,
+    "level": "intermediate",
+    "q": "O que é um pacote (package) em Java?",
+    "options": ["Agrupamento de classes relacionadas", "Arquivo de configuração", "Classe principal", "Método herdado"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 145,
+    "levelId": 29,
+    "level": "intermediate",
+    "q": "Qual estrutura permite armazenar pares de chave e valor?",
+    "options": ["Map", "List", "Set", "Queue"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 146,
+    "levelId": 30,
+    "level": "intermediate",
+    "q": "O que faz o método replace() em uma String?",
+    "options": ["Substitui caracteres", "Remove espaços", "Transforma em maiúsculas", "Divide a String"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 147,
+    "levelId": 30,
+    "level": "intermediate",
+    "q": "O que o método indexOf() retorna?",
+    "options": ["A posição de um caractere", "O tamanho da String", "O último caractere", "O número total de palavras"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 148,
+    "levelId": 30,
+    "level": "intermediate",
+    "q": "Qual é a função de um construtor em uma classe?",
+    "options": ["Inicializar objetos", "Excluir atributos", "Finalizar métodos", "Criar pacotes"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 149,
+    "levelId": 30,
+    "level": "intermediate",
+    "q": "O que acontece se não for declarado um construtor?",
+    "options": ["O compilador cria um padrão", "O programa não compila", "A classe é abstrata", "É necessário usar static"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 150,
+    "levelId": 30,
+    "level": "intermediate",
+    "q": "Qual método transforma um número em string?",
+    "options": ["String.valueOf()", "parseInt()", "convert()", "join()"],
+    "answerIndex": 0,
+    "xp": 15,
+    "coins": 7
+  },
+  {
+    "id": 151,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "O que faz o try-with-resources?",
+    "options": [
+      "Libera memória",
+      "Fecha arquivos",
+      "Evita null",
+      "Cria loops"
+    ],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 151,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "O que é um stream em Java?",
+    "options": [
+      "Entrada de áudio",
+      "Coleção de bytes",
+      "Fluxo de dados",
+      "Classe de exceção"
+    ],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 151,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "Qual interface funcional representa T → R?",
+    "options": [
+      "Consumer",
+      "Predicate",
+      "Function",
+      "Runnable"
+    ],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 151,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "Qual palavra impede herança?",
+    "options": [
+      "sealed",
+      "final",
+      "private",
+      "static"
+    ],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 151,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "Qual é o tipo mais genérico?",
+    "options": [
+      "Object",
+      "String",
+      "Any",
+      "Class"
+    ],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 156,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "Qual palavra impede herança?",
+    "options": [
+      "sealed",
+      "final",
+      "private",
+      "static"
+    ],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 156,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "Qual classe representa exceções verificadas?",
+    "options": [
+      "RuntimeException",
+      "IOException",
+      "Error",
+      "NullPointerException"
+    ],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 156,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "Como tipar uma lista de inteiros?",
+    "options": [
+      "List<int>",
+      "List<Integer>",
+      "int[]",
+      "ArrayList<int>"
+    ],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 156,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "Qual anotação define sobrescrita?",
+    "options": ["@Overload", "@Override", "@Extend", "@Final"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 176,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "O que significa a anotação @FunctionalInterface?",
+    "options": ["Cria uma interface anônima", "Garante que a interface tenha apenas um método abstrato", "Define um método estático", "Permite múltiplas heranças"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 177,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "O que o método map() faz em Streams?",
+    "options": ["Filtra elementos", "Combina streams", "Transforma os elementos do stream", "Remove duplicados"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 178,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "Qual é o papel do Collectors.toList()?",
+    "options": ["Cria uma Stream vazia", "Remove elementos nulos", "Combina duas listas", "Converte um Stream em lista"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 179,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "O que é um deadlock?",
+    "options": ["Quando há excesso de memória", "Quando o programa encerra abruptamente", "Quando duas threads esperam recursos uma da outra", "Quando duas variáveis têm o mesmo nome"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 180,
+    "levelId": 31,
+    "level": "advanced",
+    "q": "O que faz o método synchronized?",
+    "options": ["Garante acesso exclusivo a um bloco de código", "Cria novas threads", "Executa código paralelo", "Remove condições de corrida automaticamente"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 181,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "O que significa Generics em Java?",
+    "options": ["Permite criar classes e métodos com tipos parametrizados", "Define tipos fixos de dados", "Evita casting de números", "Converte Strings em objetos"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 182,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "O que faz o método filter() em Streams?",
+    "options": ["Combina streams", "Seleciona elementos que atendem a uma condição", "Remove valores duplicados", "Ordena elementos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 183,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "O que é o padrão Singleton?",
+    "options": ["Cria várias threads", "Divide uma classe em partes", "Permite múltiplas instâncias simultâneas", "Garante uma única instância de uma classe"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 184,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "O que é Reflection em Java?",
+    "options": ["Criação automática de interfaces", "Conversão de tipos primitivos", "Execução paralela de métodos", "Manipulação de classes e métodos em tempo de execução"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 185,
+    "levelId": 32,
+    "level": "advanced",
+    "q": "Qual pacote contém as classes de Stream?",
+    "options": ["java.lang", "java.data", "java.io", "java.util.stream"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 186,
+    "levelId": 33,
+    "level": "advanced",
+    "q": "O que faz a anotação @Deprecated?",
+    "options": ["Indica que um elemento não deve mais ser usado", "Impede herança", "Desativa exceções", "Remove um método"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 187,
+    "levelId": 33,
+    "level": "advanced",
+    "q": "O que faz o método reduce() em Streams?",
+    "options": ["Divide o stream", "Filtra elementos nulos", "Combina os elementos em um único resultado", "Remove duplicados"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 188,
+    "levelId": 33,
+    "level": "advanced",
+    "q": "O que representa a palavra-chave transient?",
+    "options": ["Evita que um campo seja serializado", "Garante sincronização", "Permite sobrescrita", "Torna o campo imutável"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 189,
+    "levelId": 33,
+    "level": "advanced",
+    "q": "Qual é a principal função da API Optional?",
+    "options": ["Criar threads assíncronas", "Evitar NullPointerException", "Gerar exceções automáticas", "Converter dados em Streams"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 190,
+    "levelId": 33,
+    "level": "advanced",
+    "q": "O que faz a anotação @Override?",
+    "options": ["Define visibilidade pública", "Cria um novo método", "Evita herança múltipla", "Indica que um método sobrescreve outro"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 191,
+    "levelId": 34,
+    "level": "advanced",
+    "q": "Qual é a diferença entre HashMap e TreeMap?",
+    "options": ["TreeMap aceita chaves nulas", "TreeMap é mais rápido", "HashMap não mantém ordem; TreeMap mantém", "HashMap usa menos memória"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 192,
+    "levelId": 34,
+    "level": "advanced",
+    "q": "O que significa Imutabilidade em Java?",
+    "options": ["Variável que muda constantemente", "Objeto que não pode ser alterado após criado", "Classe que herda várias interfaces", "Método que retorna múltiplos valores"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 193,
+    "levelId": 35,
+    "level": "advanced",
+    "q": "Qual é o papel da interface Runnable?",
+    "options": ["Permitir execução de código em uma thread", "Criar objetos genéricos", "Gerenciar exceções", "Realizar operações de I/O"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 194,
+    "levelId": 35,
+    "level": "advanced",
+    "q": "O que é o padrão Observer?",
+    "options": ["Cria uma instância única", "Executa métodos paralelos", "Armazena dados em cache", "Notifica automaticamente objetos sobre mudanças"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 195,
+    "levelId": 36,
+    "level": "advanced",
+    "q": "Qual método é usado para iniciar uma Thread?",
+    "options": ["run()", "start()", "execute()", "begin()"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 196,
+    "levelId": 36,
+    "level": "advanced",
+    "q": "O que faz o método parallelStream()?",
+    "options": ["Filtra elementos duplicados", "Executa operações em paralelo", "Cria um stream vazio", "Converte para lista"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 197,
+    "levelId": 36,
+    "level": "advanced",
+    "q": "O que é uma classe record em Java?",
+    "options": ["Uma interface funcional", "Uma classe abstrata", "Uma classe imutável com construtor automático", "Um tipo primitivo"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 198,
+    "levelId": 36,
+    "level": "advanced",
+    "q": "O que faz o método flatMap() em Streams?",
+    "options": ["Agrupa por chave", "Combina e achata múltiplos streams", "Remove duplicados", "Ordena elementos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 199,
+    "levelId": 37,
+    "level": "advanced",
+    "q": "O que significa uma classe sealed?",
+    "options": ["Cria uma thread segura", "Impede herança completamente", "Limita quais classes podem herdá-la", "Garante imutabilidade"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 200,
+    "levelId": 37,
+    "level": "advanced",
+    "q": "Qual método pausa temporariamente uma Thread?",
+    "options": ["yield()", "pause()", "wait()", "sleep()"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 201,
+    "levelId": 37,
+    "level": "advanced",
+    "q": "O que é um CompletableFuture?",
+    "options": ["Um tipo de exceção", "Uma interface de stream", "Uma forma de executar tarefas assíncronas", "Um padrão de herança"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 202,
+    "levelId": 37,
+    "level": "advanced",
+    "q": "Qual é a função do método join() em Threads?",
+    "options": ["Combina duas classes", "Faz uma thread esperar outra terminar", "Interrompe a execução", "Inicia uma thread"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 203,
+    "levelId": 38,
+    "level": "advanced",
+    "q": "O que é Pattern Matching para instanceof?",
+    "options": ["Cria novas instâncias", "Permite verificar e converter tipo em uma única expressão", "Compara Strings", "Remove nulls de uma lista"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 204,
+    "levelId": 38,
+    "level": "advanced",
+    "q": "O que faz o método orElse() da classe Optional?",
+    "options": ["Concatena dois Optionals", "Retorna um valor padrão se estiver vazio", "Remove valores nulos", "Lança exceção sempre"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 205,
+    "levelId": 38,
+    "level": "advanced",
+    "q": "Qual é o propósito do pacote java.util.concurrent?",
+    "options": ["Gerar logs", "Manipular arquivos", "Trabalhar com coleções imutáveis", "Gerenciar tarefas paralelas e sincronização"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 206,
+    "levelId": 38,
+    "level": "advanced",
+    "q": "O que significa o operador :: em Java?",
+    "options": ["Concatenação de Strings", "Referência a método ou construtor", "Comparação de objetos", "Chamada estática"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 207,
+    "levelId": 39,
+    "level": "advanced",
+    "q": "O que é o padrão Factory Method?",
+    "options": ["Realiza serialização automática", "Define um método para criar objetos sem especificar a classe", "Cria uma única instância global", "Gerencia threads"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 208,
+    "levelId": 39,
+    "level": "advanced",
+    "q": "O que o método peek() faz em Streams?",
+    "options": ["Remove elementos nulos", "Combina streams", "Executa uma ação intermediária para depuração", "Agrupa valores"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 209,
+    "levelId": 39,
+    "level": "advanced",
+    "q": "O que significa serializar um objeto?",
+    "options": ["Transformá-lo em uma sequência de bytes", "Removê-lo da memória", "Executá-lo em paralelo", "Copiá-lo para outra thread"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 210,
+    "levelId": 39,
+    "level": "advanced",
+    "q": "O que faz a anotação @SafeVarargs?",
+    "options": ["Cria métodos estáticos", "Previne warnings de varargs com tipos genéricos", "Ativa exceções de compilação", "Impede herança"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 211,
+    "levelId": 40,
+    "level": "advanced",
+    "q": "Qual é a vantagem de um Stream paralelo?",
+    "options": ["Melhor desempenho em operações independentes", "Evita exceções", "Simplifica a serialização", "Reduz uso de memória"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 212,
+    "levelId": 40,
+    "level": "advanced",
+    "q": "O que o método distinct() faz em Streams?",
+    "options": ["Agrupa valores", "Remove elementos duplicados", "Inverte a lista", "Ordena elementos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 213,
+    "levelId": 40,
+    "level": "advanced",
+    "q": "Qual é o papel da interface Callable?",
+    "options": ["Executar tarefas que retornam resultados", "Criar streams concorrentes", "Definir threads anônimas", "Gerar exceções verificadas"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 214,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que o método findFirst() faz em um Stream?",
+    "options": ["Remove nulos", "Retorna o primeiro elemento encontrado", "Converte para Optional vazio", "Conta elementos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 215,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que é o padrão Builder?",
+    "options": ["Executa tarefas paralelas", "Cria instâncias únicas", "Constrói objetos complexos passo a passo", "Define hierarquias de classes"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+
+  {
+    "id": 226,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que faz o Garbage Collector na JVM?",
+    "options": ["Compila bytecode", "Libera memória não utilizada", "Gerencia exceções", "Cria threads"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 227,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "Qual princípio SOLID é violado quando uma classe faz mais de uma coisa?",
+    "options": ["Dependency Inversion", "Open/Closed", "Liskov Substitution", "Single Responsibility"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 228,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que é o padrão Decorator?",
+    "options": ["Cria instâncias únicas", "Adiciona funcionalidades dinamicamente a um objeto", "Divide classes abstratas", "Garante execução paralela"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 229,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que significa o princípio Open/Closed?",
+    "options": ["Aberto para herança, fechado para uso", "Aberto para extensão, fechado para modificação", "Aberto apenas a interfaces", "Fechado para exceções"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 230,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "O que faz o método computeIfAbsent() em Map?",
+    "options": ["Atualiza todas as chaves", "Insere um valor se a chave não existir", "Ordena o mapa", "Remove valores duplicados"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 231,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "Qual é o objetivo do padrão Strategy?",
+    "options": ["Gerenciar múltiplas threads", "Reduzir o uso de memória", "Controlar dependências circulares", "Permitir alternar comportamentos em tempo de execução"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 232,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "O que é o princípio Dependency Inversion?",
+    "options": ["Evitar dependências externas", "Depender de abstrações, não de implementações", "Usar herança sempre", "Isolar módulos duplicados"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 233,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "Qual é o papel da classe ExecutorService?",
+    "options": ["Iniciar fluxos de dados", "Gerenciar a execução de tarefas em threads", "Gerar bytecode", "Controlar exceções verificadas"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 234,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "O que é a heap na JVM?",
+    "options": ["Stack de execução de métodos", "Cache de CPU", "Área de memória onde objetos são armazenados", "Espaço reservado ao código compilado"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 235,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que o padrão Observer faz?",
+    "options": ["Executa operações paralelas", "Cria subclasses dinâmicas", "Garante uma instância única", "Notifica objetos automaticamente sobre mudanças"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 236,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que significa o termo Thread-safe?",
+    "options": ["Código seguro para execução concorrente", "Classe abstrata de threads", "Exceção lançada em concorrência", "Função que usa threads automaticamente"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 237,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que faz o método synchronized?",
+    "options": ["Remove condições de corrida", "Evita que múltiplas threads acessem o mesmo recurso ao mesmo tempo", "Sincroniza banco de dados", "Cria novas threads"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 238,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que faz o método collect() em Streams?",
+    "options": ["Agrupa ou converte elementos em outra coleção", "Filtra por tipo", "Executa o fluxo em paralelo", "Concatena dois streams"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 239,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que é o stack na JVM?",
+    "options": ["Salva logs de execução", "Armazena código binário", "Guarda objetos em heap", "Armazena variáveis locais e chamadas de método"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 240,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "Qual é a função do padrão Adapter?",
+    "options": ["Evitar herança", "Simplificar a execução de threads", "Conectar classes incompatíveis sem alterá-las", "Criar várias instâncias"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 241,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que o método forEach() faz em Streams?",
+    "options": ["Combina streams", "Executa uma ação em cada elemento", "Retorna o primeiro elemento", "Filtra valores nulos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 242,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que o padrão Proxy faz?",
+    "options": ["Evita casting", "Controla o acesso a um objeto real", "Encapsula exceções", "Remove duplicações de código"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 243,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que significa o princípio Liskov Substitution?",
+    "options": ["Heranças devem ser privadas", "Os módulos não devem depender de abstrações", "Toda interface deve ter apenas um método", "Subclasses devem poder substituir suas superclasses sem quebrar o sistema"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 244,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que faz o método mapToInt()?",
+    "options": ["Transforma em lista de Strings", "Remove nulos", "Converte o Stream para valores inteiros primitivos", "Conta elementos"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 245,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "O que é um Future em Java?",
+    "options": ["Define uma exceção futura", "É um tipo de Stream", "Representa o resultado de uma computação assíncrona", "Garante execução sequencial"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 246,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "Qual é o papel do método finalize()?",
+    "options": ["Cria uma nova instância", "Executa antes da liberação de um objeto", "Evita NullPointerException", "Garante sincronização"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 247,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "O que é uma WeakReference?",
+    "options": ["Uma exceção não verificada", "Um método de ordenação", "Referência que não impede o coletor de lixo de remover o objeto", "Uma referência compartilhada entre threads"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 248,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "Qual é o objetivo do padrão Command?",
+    "options": ["Encapsular uma solicitação como um objeto", "Monitorar exceções", "Executar streams em paralelo", "Criar várias instâncias"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 249,
+    "levelId": 46,
+    "level": "advanced",
+    "q": "O que o método findAny() faz em Streams paralelos?",
+    "options": ["Ordena a lista", "Conta duplicados", "Retorna o último elemento", "Retorna um elemento qualquer encontrado"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 250,
+    "levelId": 46,
+    "level": "advanced",
+    "q": "O que é o padrão Flyweight?",
+    "options": ["Controla o ciclo de vida de threads", "Reduz o uso de memória compartilhando objetos", "Simplifica herança múltipla", "Cria instâncias únicas"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 214,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que o método findFirst() faz em um Stream?",
+    "options": ["Remove nulos", "Converte para Optional vazio", "Retorna o primeiro elemento encontrado", "Conta elementos"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 215,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que é o padrão Builder?",
+    "options": ["Executa tarefas paralelas", "Constrói objetos complexos passo a passo", "Define hierarquias de classes", "Cria instâncias únicas"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 226,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que faz o Garbage Collector na JVM?",
+    "options": ["Cria threads", "Compila bytecode", "Libera memória não utilizada", "Gerencia exceções"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 227,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "Qual princípio SOLID é violado quando uma classe faz mais de uma coisa?",
+    "options": ["Liskov Substitution", "Open/Closed", "Single Responsibility", "Dependency Inversion"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 228,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que é o padrão Decorator?",
+    "options": ["Cria instâncias únicas", "Garante execução paralela", "Divide classes abstratas", "Adiciona funcionalidades dinamicamente a um objeto"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 229,
+    "levelId": 41,
+    "level": "advanced",
+    "q": "O que significa o princípio Open/Closed?",
+    "options": ["Aberto apenas a interfaces", "Aberto para extensão, fechado para modificação", "Fechado para exceções", "Aberto para herança, fechado para uso"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 230,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "O que faz o método computeIfAbsent() em Map?",
+    "options": ["Insere um valor se a chave não existir", "Remove valores duplicados", "Ordena o mapa", "Atualiza todas as chaves"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 231,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "Qual é o objetivo do padrão Strategy?",
+    "options": ["Gerenciar múltiplas threads", "Controlar dependências circulares", "Permitir alternar comportamentos em tempo de execução", "Reduzir o uso de memória"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 232,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "O que é o princípio Dependency Inversion?",
+    "options": ["Evitar dependências externas", "Depender de abstrações, não de implementações", "Isolar módulos duplicados", "Usar herança sempre"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 233,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "Qual é o papel da classe ExecutorService?",
+    "options": ["Controlar exceções verificadas", "Gerenciar a execução de tarefas em threads", "Iniciar fluxos de dados", "Gerar bytecode"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 234,
+    "levelId": 42,
+    "level": "advanced",
+    "q": "O que é a heap na JVM?",
+    "options": ["Cache de CPU", "Área de memória onde objetos são armazenados", "Espaço reservado ao código compilado", "Stack de execução de métodos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 235,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que o padrão Observer faz?",
+    "options": ["Notifica objetos automaticamente sobre mudanças", "Executa operações paralelas", "Cria subclasses dinâmicas", "Garante uma instância única"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 236,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que significa o termo Thread-safe?",
+    "options": ["Classe abstrata de threads", "Código seguro para execução concorrente", "Função que usa threads automaticamente", "Exceção lançada em concorrência"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 237,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que faz o método synchronized?",
+    "options": ["Remove condições de corrida", "Evita que múltiplas threads acessem o mesmo recurso ao mesmo tempo", "Cria novas threads", "Sincroniza banco de dados"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 238,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que faz o método collect() em Streams?",
+    "options": ["Concatena dois streams", "Executa o fluxo em paralelo", "Filtra por tipo", "Agrupa ou converte elementos em outra coleção"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 239,
+    "levelId": 43,
+    "level": "advanced",
+    "q": "O que é o stack na JVM?",
+    "options": ["Guarda objetos em heap", "Salva logs de execução", "Armazena variáveis locais e chamadas de método", "Armazena código binário"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 240,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "Qual é a função do padrão Adapter?",
+    "options": ["Conectar classes incompatíveis sem alterá-las", "Criar várias instâncias", "Simplificar a execução de threads", "Evitar herança"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 241,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que o método forEach() faz em Streams?",
+    "options": ["Filtra valores nulos", "Combina streams", "Executa uma ação em cada elemento", "Retorna o primeiro elemento"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 242,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que o padrão Proxy faz?",
+    "options": ["Encapsula exceções", "Remove duplicações de código", "Controla o acesso a um objeto real", "Evita casting"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 243,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que significa o princípio Liskov Substitution?",
+    "options": ["Subclasses devem poder substituir suas superclasses sem quebrar o sistema", "Os módulos não devem depender de abstrações", "Heranças devem ser privadas", "Toda interface deve ter apenas um método"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 244,
+    "levelId": 44,
+    "level": "advanced",
+    "q": "O que faz o método mapToInt()?",
+    "options": ["Transforma em lista de Strings", "Converte o Stream para valores inteiros primitivos", "Remove nulos", "Conta elementos"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 245,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "O que é um Future em Java?",
+    "options": ["É um tipo de Stream", "Representa o resultado de uma computação assíncrona", "Define uma exceção futura", "Garante execução sequencial"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 246,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "Qual é o papel do método finalize()?",
+    "options": ["Cria uma nova instância", "Garante sincronização", "Executa antes da liberação de um objeto", "Evita NullPointerException"],
+    "answerIndex": 2,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 247,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "O que é uma WeakReference?",
+    "options": ["Uma referência compartilhada entre threads", "Referência que não impede o coletor de lixo de remover o objeto", "Uma exceção não verificada", "Um método de ordenação"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 248,
+    "levelId": 45,
+    "level": "advanced",
+    "q": "Qual é o objetivo do padrão Command?",
+    "options": ["Encapsular uma solicitação como um objeto", "Monitorar exceções", "Criar várias instâncias", "Executar streams em paralelo"],
+    "answerIndex": 0,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 249,
+    "levelId": 46,
+    "level": "advanced",
+    "q": "O que o método findAny() faz em Streams paralelos?",
+    "options": ["Conta duplicados", "Retorna o último elemento", "Ordena a lista", "Retorna um elemento qualquer encontrado"],
+    "answerIndex": 3,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 250,
+    "levelId": 46,
+    "level": "advanced",
+    "q": "O que é o padrão Flyweight?",
+    "options": ["Simplifica herança múltipla", "Reduz o uso de memória compartilhando objetos", "Cria instâncias únicas", "Controla o ciclo de vida de threads"],
+    "answerIndex": 1,
+    "xp": 20,
+    "coins": 10
+  },
+  {
+    "id": 260,
+    "levelId": 47,
+    "level": "advanced",
+    "q": "O que o padrão Singleton garante?",
+    "options": ["Acesso anônimo a métodos", "Injeção de dependências automáticas", "Apenas uma instância da classe", "Múltiplas instâncias paralelas"],
+    "answerIndex": 2,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 261,
+    "levelId": 47,
+    "level": "advanced",
+    "q": "O que é Reflection em Java?",
+    "options": ["Interface funcional de logging", "Classe base para exceções", "Técnica para inspecionar e modificar classes em tempo de execução", "Método de espelhamento de Streams"],
+    "answerIndex": 2,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 262,
+    "levelId": 47,
+    "level": "advanced",
+    "q": "Qual módulo contém as classes base do Java SE?",
+    "options": ["java.core", "java.base", "java.main", "jdk.base"],
+    "answerIndex": 1,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 263,
+    "levelId": 47,
+    "level": "advanced",
+    "q": "O que é um Record em Java?",
+    "options": ["Classe imutável para transportar dados", "Interface para JSON", "Classe abstrata sem construtor", "Tipo primitivo de alta performance"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 264,
+    "levelId": 48,
+    "level": "advanced",
+    "q": "O que o método join() faz em uma Thread?",
+    "options": ["Faz a thread atual esperar outra terminar", "Cria um thread pool", "Combina duas threads", "Inicia a execução paralela"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 265,
+    "levelId": 48,
+    "level": "advanced",
+    "q": "O que o método allOf() faz em CompletableFuture?",
+    "options": ["Aguarda a conclusão de várias tarefas assíncronas", "Cancela todas as tarefas", "Executa tarefas sequenciais", "Retorna a primeira tarefa concluída"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 266,
+    "levelId": 48,
+    "level": "advanced",
+    "q": "Qual é a vantagem de usar parallelStream()?",
+    "options": ["Evita exceções", "Executa operações em múltiplos núcleos", "Aumenta a precisão", "Reduz o uso de memória"],
+    "answerIndex": 1,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 267,
+    "levelId": 48,
+    "level": "advanced",
+    "q": "O que é o padrão Composite?",
+    "options": ["Trata objetos individuais e composições de forma uniforme", "Define um ponto único de acesso", "Cria adaptadores dinâmicos", "Encapsula comandos"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 268,
+    "levelId": 48,
+    "level": "advanced",
+    "q": "O que o método thenApply() faz em CompletableFuture?",
+    "options": ["Executa em thread principal", "Transforma o resultado assíncrono em outro valor", "Cancela a execução paralela", "Combina múltiplos fluxos"],
+    "answerIndex": 1,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 269,
+    "levelId": 49,
+    "level": "advanced",
+    "q": "O que o método isVirtual() indica em Threads modernas do Java 21?",
+    "options": ["Se a thread está sincronizada", "Se possui prioridade máxima", "Se a thread é leve e gerenciada pela JVM", "Se é uma daemon thread"],
+    "answerIndex": 2,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 270,
+    "levelId": 49,
+    "level": "advanced",
+    "q": "O que é o padrão Bridge?",
+    "options": ["Cria instâncias únicas", "Remove duplicidade de código", "Combina observers em série", "Separa abstração da implementação permitindo evolução independente"],
+    "answerIndex": 3,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 271,
+    "levelId": 49,
+    "level": "advanced",
+    "q": "O que significa JIT na JVM?",
+    "options": ["Java Internal Translator", "JVM Integration Tool", "Just-In-Time compiler", "Java Interface Tracker"],
+    "answerIndex": 2,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 272,
+    "levelId": 49,
+    "level": "advanced",
+    "q": "O que faz o método of() na classe Optional?",
+    "options": ["Cria um Optional com valor não nulo", "Remove nulos automaticamente", "Lança exceção se o valor for vazio", "Retorna um valor padrão"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 273,
+    "levelId": 49,
+    "level": "advanced",
+    "q": "Qual pacote contém as classes de data e hora modernas?",
+    "options": ["java.time", "java.sql.time", "java.util.date", "java.calendar"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 274,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "O que o método getDeclaredFields() retorna em Reflection?",
+    "options": ["Apenas métodos da classe", "Todos os campos da classe, inclusive privados", "Interfaces herdadas", "Somente os campos públicos"],
+    "answerIndex": 1,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 275,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "O que é o padrão Factory Method?",
+    "options": ["Cria múltiplos objetos aleatórios", "Define uma interface para criação de objetos sem expor a lógica concreta", "Define herança múltipla", "Controla threads automaticamente"],
+    "answerIndex": 1,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 276,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "O que o método reduce() faz em Streams?",
+    "options": ["Combina elementos para produzir um único resultado", "Transforma em mapa", "Divide streams em blocos menores", "Remove duplicados"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 277,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "O que o Garbage Collector da JVM faz?",
+    "options": ["Compila o código em tempo de execução", "Libera objetos não mais referenciados", "Gerencia exceções", "Controla o paralelismo"],
+    "answerIndex": 1,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 278,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "O que é o padrão Builder?",
+    "options": ["Facilita a criação de objetos complexos passo a passo", "Agrupa classes em módulos", "Permite múltiplas heranças", "Simplifica herança de exceções"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 279,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "Qual vantagem dos módulos no Java 9+?",
+    "options": ["Geração de bytecode otimizada", "Conversão automática para records", "Melhor encapsulamento e controle de dependências", "Execução paralela automática"],
+    "answerIndex": 2,
+    "xp": 25,
+    "coins": 12
+  },
+  {
+    "id": 280,
+    "levelId": 50,
+    "level": "advanced",
+    "q": "O que o método lines() da classe Files retorna?",
+    "options": ["Um Stream com as linhas do arquivo", "Um mapa chave-valor", "Uma lista de objetos File", "Um array de bytes"],
+    "answerIndex": 0,
+    "xp": 25,
+    "coins": 12
+  }
+]

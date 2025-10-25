@@ -1,0 +1,74 @@
+[
+  {
+    "id": "classic",
+    "name": "Javali Clássico",
+    "price": 0,
+    "description": "O javali original. Simples, mas lendário."
+  },
+  {
+    "id": "comp_unifil",
+    "name": "Javali Computação UniFil",
+    "price": 50,
+    "description": "Um javali de respeito."
+  },
+  {
+    "id": "unifil",
+    "name": "Javali UniFil",
+    "price": 100,
+    "description": "Orgulho de ser UniFil."
+  },
+  {
+    "id": "universitario",
+    "name": "Javali Universitário",
+    "price": 380,
+    "description": "Cansado desde o primeiro semestre."
+  },
+  {
+    "id": "flamejante",
+    "name": "Javali Flamejante",
+    "price": 820,
+    "description": "Queima até os bugs com sua fúria ardente."
+  },
+  {
+    "id": "hacker",
+    "name": "Javali Hacker",
+    "price": 1120,
+    "description": "Invade até seu próprio código."
+  },
+    {
+    "id": "console_log_magic",
+    "name": "JavaliScript",
+    "price": 1400,
+    "description": "Usa magia, mas ainda esquece ponto e vírgula."
+  },
+  {
+    "id": "suporte_tecnico",
+    "name": "Javali Suporte Técnico",
+    "price": 1150,
+    "description": "Reiniciou o servidor, mas o problema era o usuário."
+  },
+  {
+    "id": "javali_404",
+    "name": "Javali 404",
+    "price": 1550,
+    "description": "Erro encontrado: paciência não detectada."
+  },
+  {
+    "id": "maromba",
+    "name": "Javali ForEachRep",
+    "price": 1700,
+    "description": "Repete até falhar (literalmente)."
+  },
+  {
+    "id": "malandro",
+    "name": "Javali Malandro",
+    "price": 1790,
+    "description": "Malandro, com lógica booleana. Quando mente, é por if."
+  },
+  {
+    "id": "dev_senior",
+    "name": "Javali Dev Sênior",
+    "price": 2200,
+    "description": "Resolve em 5 linhas o que você faria em 50."
+  }
+]
