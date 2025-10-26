@@ -2,6 +2,8 @@
 import dynamic from "next/dynamic";
 import { BrowserRouter } from "react-router-dom";
 
+export const dynamic = "force-dynamic"; 
+
 const App = dynamic(() => import("./App.jsx"), { ssr: false });
 
 export default function Page() {
