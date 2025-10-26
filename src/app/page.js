@@ -1,15 +1,13 @@
 "use client";
-import { BrowserRouter } from "react-router-dom";
-import loadDynamic from "next/dynamic"; 
+import dynamicImport from "next/dynamic";
 
-export const dynamic = "force-dynamic"; // agora não conflita com o import acima
+export const dynamic = "force-dynamic"; // impede SSR total
+export const fetchCache = "force-no-store";
 
-const App = loadDynamic(() => import("./App.jsx"), { ssr: false });
+const ClientWrapper = dynamicImport(() => import("./client-wrapper.jsx"), {
+  ssr: false,
+});
 
 export default function Page() {
-  return (
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  );
+  return <ClientWrapper />;
 }
