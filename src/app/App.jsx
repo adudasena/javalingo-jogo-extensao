@@ -14,17 +14,25 @@ const Missions  = lazy(() => import("./pages/Missions"));
 const Signup    = lazy(() => import("./pages/Signup"));
 
 // Hook reativo para refletir login/logout sem recarregar a página
+//ultima atualização, pela incompatibilidade na vm
 function useAuthLive() {
-  const [isAuth, setIsAuth] = useState(Boolean(getState().user));
+  const [isAuth, setIsAuth] = useState(false);
+
   useEffect(() => {
-    const update = () => setIsAuth(Boolean(getState().user));
-    window.addEventListener("javalingo:state", update); // mesma aba
-    window.addEventListener("storage", update);         // outras abas
-    return () => {
-      window.removeEventListener("javalingo:state", update);
-      window.removeEventListener("storage", update);
-    };
+    if (typeof window !== "undefined") {
+      setIsAuth(Boolean(getState().user));
+
+      const update = () => setIsAuth(Boolean(getState().user));
+      window.addEventListener("javalingo:state", update);
+      window.addEventListener("storage", update);
+
+      return () => {
+        window.removeEventListener("javalingo:state", update);
+        window.removeEventListener("storage", update);
+      };
+    }
   }, []);
+
   return isAuth;
 }
 
