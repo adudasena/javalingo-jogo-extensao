@@ -63,13 +63,20 @@ export default function LevelTest() {
       message = "Seu nível inicial é o 1 (iniciante). Treine para evoluir!";
     }
 
-    for (let n = 1; n <= end; n++) {
-      try {
-        completeLevel(n, user);
-      } catch (e) {
-        console.warn("Erro liberando nível", e);
-      }
+if (level === "beginner") {
+  const all = JSON.parse(localStorage.getItem("javalingo_progress_v1")) || {};
+  all[user] = { highestUnlocked: 1, completed: [] };
+  localStorage.setItem("javalingo_progress_v1", JSON.stringify(all));
+} else {
+  // 🔓 Intermediário ou avançado: libera até o nível correspondente
+  for (let n = 1; n <= end; n++) {
+    try {
+      completeLevel(n, user);
+    } catch (e) {
+      console.warn("Erro liberando nível", e);
     }
+  }
+}
 
     setState({ ...s, level, levelTestDone: true });
     localStorage.setItem(`testeFeito_${user}`, "true");

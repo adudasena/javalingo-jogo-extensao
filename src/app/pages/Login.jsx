@@ -7,6 +7,8 @@ import { fetchUserProgress } from "../lib/syncUser";
 import { setState, getState } from "../lib/storage";
 import Mascot from "../components/Mascot";
 import BackgroundFX from "../components/BackgroundFX";
+import { resetPassword } from "../lib/firebase";
+import PopupMessage from "../components/PopupMessage";
 
 export default function Login() {
   const nav = useNavigate();
@@ -14,6 +16,7 @@ export default function Login() {
   const [pass, setPass] = useState("");
   const [err, setErr] = useState("");
   const [loading, setLoading] = useState(false);
+  const [popup, setPopup] = useState("");
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -88,6 +91,20 @@ export default function Login() {
     }
   }
 
+  async function handleResetPassword() {
+  if (!email.trim()) {
+    setPopup("Digite seu e-mail no campo acima antes de redefinir a senha.");
+    return;
+  }
+  try {
+    await resetPassword(email);
+    setPopup(`📩 Um link de redefinição foi enviado para ${email}. Verifique sua caixa de entrada.`);
+  } catch (err) {
+    console.error("Erro ao enviar e-mail de redefinição:", err);
+    setPopup("Erro ao enviar o e-mail. Verifique se o e-mail está correto.");
+  }
+}
+
   return (
     <div className="page login-page">
       <BackgroundFX variant="login" />
@@ -133,10 +150,17 @@ export default function Login() {
               {loading ? "Entrando..." : "Entrar"}
             </button>
 
+<p className="small" style={{ textAlign: "center", marginTop: 8 }}>
+  <button className="btn btn-link" type="button" onClick={handleResetPassword}>
+    Esqueci minha senha
+  </button>
+</p>
+
             <p className="small" style={{ textAlign: "center", marginTop: 10 }}>
               <Link to="/signup" className="btn btn-ghost">Cadastrar-se</Link>
             </p>
           </form>
+          {popup && <PopupMessage message={popup} onClose={() => setPopup("")} />}
         </div>
       </div>
     </div>

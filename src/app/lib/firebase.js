@@ -4,6 +4,7 @@ import { getAuth } from "firebase/auth";
 import { getFirestore, doc, getDoc, setDoc } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 import { setState } from "./storage";
+import { sendPasswordResetEmail } from "firebase/auth";
 
 const firebaseConfig = {
   apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
@@ -21,9 +22,6 @@ export const storage = getStorage(app);
 export const auth = getAuth(app);
 auth.languageCode = "pt-BR";
 
-/**
- * 🔄 Carrega dados do usuário (ou cria se não existir)
- */
 export async function loadOrCreateUserData(user) {
   if (!user?.uid) {
     console.error("❌ Nenhum usuário recebido no loadOrCreateUserData()");
@@ -94,4 +92,23 @@ export async function loadOrCreateUserData(user) {
 
   window.dispatchEvent(new Event("javalingo:state"));
   console.log("✅ Estado global atualizado com UID:", user.uid);
+}
+
+export async function resetPassword(email) {
+  try {
+    await sendPasswordResetEmail(auth, email);
+  } catch (error) {
+    console.error("❌ Erro ao redefinir senha:", error.code, error.message);
+
+    switch (error.code) {
+      case "auth/user-not-found":
+        alert("Usuário não encontrado. Verifique o e-mail digitado.");
+        break;
+      case "auth/invalid-email":
+        alert("E-mail inválido. Digite um e-mail válido.");
+        break;
+      default:
+        alert("Erro ao enviar e-mail de redefinição. Tente novamente mais tarde.");
+    }
+  }
 }
