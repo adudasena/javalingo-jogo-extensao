@@ -5,6 +5,9 @@ import "./NivelamentoPopup.css";
 export const metadata = {
   title: "JavaLingo",
   description: "Jogo de aprendizado de Java interativo",
+  icons: {
+    icon: "/favicon-v2.ico",
+  },
 };
 
 export default function RootLayout({ children }) {

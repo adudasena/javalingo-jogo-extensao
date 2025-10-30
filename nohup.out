@@ -1,0 +1,70 @@
+
+> javalingo-next@0.1.0 start
+> next start -p 3001 -H 0.0.0.0
+
+   ▲ Next.js 15.5.6
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 304ms
+
+> javalingo-next@0.1.0 start
+> next start -p 3001 -H 0.0.0.0
+
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at <unknown> (Error: listen EADDRINUSE: address already in use 0.0.0.0:3001) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+
+> javalingo-next@0.1.0 start
+> next start -p 3001 -H 0.0.0.0
+
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at <unknown> (Error: listen EADDRINUSE: address already in use 0.0.0.0:3001) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+Killed
+
+> javalingo-next@0.1.0 start
+> next start -p 3001 -H 0.0.0.0
+
+   ▲ Next.js 15.5.6
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 299ms
+
+> javalingo-next@0.1.0 start
+> next start -p 3001 -H 0.0.0.0
+
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use 0.0.0.0:3001
+    at <unknown> (Error: listen EADDRINUSE: address already in use 0.0.0.0:3001) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 3001
+}
+
+> javalingo-next@0.1.0 start
+> next start -p 3001 -H 0.0.0.0
+
+   ▲ Next.js 15.5.6
+   - Local:        http://localhost:3001
+   - Network:      http://0.0.0.0:3001
+
+ ✓ Starting...
+ ✓ Ready in 305ms
