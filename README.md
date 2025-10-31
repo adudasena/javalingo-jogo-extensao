@@ -52,7 +52,7 @@ O jogador evolui por níveis, ganha XP, desbloqueia skins e aprende de forma int
 
 A identidade visual do projeto é baseada em tons verde escuro e roxo vivo, simbolizando criatividade e evolução.
 
-##🧭 Objetivo do Projeto
+## 🧭 Objetivo do Projeto
 
 O JavaLingo tem como missão unir educação e entretenimento, promovendo um ambiente de aprendizado acessível e divertido.
 Com progressão por níveis, recompensas visuais e conteúdo prático, o projeto busca despertar o interesse por programação e lógica computacional em estudantes de todos os níveis.
