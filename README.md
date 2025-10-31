@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">JavaLingo</h1>
 
-## Getting Started
+<p align="center">
+  <strong>Jogo educacional gamificado para aprender lógica e Java de forma divertida e interativa 🎮</strong>
+</p>
 
-First, run the development server:
+<p align="center">
+  <a href="https://javalingo-portfolio.vercel.app/">🌐 Portfólio</a> •
+  <a href="http://152.67.51.137:3001/">🚀 Acessar App</a> •
+  <a href="https://www.youtube.com/watch?v=wWgP46z7LHw">🎥 Vídeo</a> •
+  <a href="https://github.com/adudasena/javalingo-jogo-extensao">📦 Repositório</a>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📖 Sobre o Projeto
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+O **JavaLingo** é uma plataforma educacional gamificada desenvolvida em **Next.js** com **Firebase**, criada para tornar o aprendizado de **lógica de programação e fundamentos de Java** mais envolvente e acessível.  
+O jogador evolui por níveis, ganha XP, desbloqueia skins e aprende de forma interativa com desafios e feedbacks automáticos.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- 🧠 **Teste de Nivelamento Automático:** identifica se o jogador é iniciante, intermediário ou avançado.  
+- 🎮 **Sistema de XP e Moedas:** ganhe recompensas ao completar desafios.  
+- 🦔 **Loja de Skins:** personalize o mascote *JavaliScript*.  
+- 📊 **Painel de Perfil:** acompanhe o progresso e conquistas.  
+- 💬 **Módulo de Perguntas e Respostas:** prática de lógica e Java com feedback instantâneo.  
+- 🛡️ **Autenticação com JWT:** login seguro com token.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ⚙️ Tecnologias Utilizadas
 
-## Deploy on Vercel
+**Frontend:**
+- React  
+- Next.js  
+- Tailwind CSS  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Backend:**
+- Node.js  
+- Express  
+- SQLite (em migração para Firebase)  
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Infraestrutura:**
+- JWT para autenticação  
+- Oracle Cloud (Linux Ubuntu)  
+- Deploy com Nginx + PM2  
+
+## 🖼️ Identidade Visual
+
+A identidade visual do projeto é baseada em tons verde escuro e roxo vivo, simbolizando criatividade e evolução.
+
+##🧭 Objetivo do Projeto
+
+O JavaLingo tem como missão unir educação e entretenimento, promovendo um ambiente de aprendizado acessível e divertido.
+Com progressão por níveis, recompensas visuais e conteúdo prático, o projeto busca despertar o interesse por programação e lógica computacional em estudantes de todos os níveis.
+---
