@@ -32,7 +32,7 @@ A plataforma utiliza desafios, recompensas e progressão por níveis para engaja
 
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express  
-- **Banco de Dados:** SQLite (em migração para Firebase)  
+- **Banco de Dados:** Firebase 
 - **Autenticação:** JWT (JSON Web Token)  
 - **Hospedagem:** Oracle Cloud (Linux Ubuntu)  
 - **Deploy:** Nginx + PM2 (modo produção)
